@@ -1,2 +1,4 @@
 # openEureka
-An alternative implementation of OpenEuphoria
+
+openEureka (Eureka for short) is an
+alternative implementation of [OpenEuphoria](https://openeuphoria.org).
